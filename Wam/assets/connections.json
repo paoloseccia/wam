@@ -1,0 +1,38 @@
+[
+   {
+      "type":"Flight",
+      "from":"Gerona Airport",
+      "to":"London",
+      "seat":"Seat 3A",
+      "number":"SK455",
+      "placeToTake":"Gate 45B",
+      "info":"Baggage drop at ticket counter 344. "
+   },
+   {
+      "type":"Airport Bus",
+      "from":"Barcelona",
+      "to":"Gerona Airport",
+      "seat":null,
+      "number":null,
+      "placeToTake":null,
+      "info":null
+   },
+    {
+      "type":"Flight",
+      "from":"London",
+      "to":"New York JFK",
+      "seat":"Seat 7B",
+      "number":"SK22",
+      "placeToTake":"Gate 22",
+      "info":"Baggage will we automatically transferred from your last leg. "
+   },
+   {
+      "type":"Train",
+      "from":"Madrid",
+      "to":"Barcelona",
+      "seat":"Seat 45B",
+      "number":"78A",
+      "placeToTake":null,
+      "info":null
+   }
+]
